@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Lior </h1>
 
 <h3 align="center">
@@ -216,4 +216,4 @@ A full-stack news application with personalized content, article sharing and use
 </p>
 
 📧 **Email:** liorby72@gmail.com
-```
+
