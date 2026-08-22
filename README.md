@@ -178,17 +178,6 @@ A full-stack news application with personalized content, article sharing and use
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lioror72&show_icons=true&locale=en" alt="Lior's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lioror72&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
