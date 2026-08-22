@@ -49,6 +49,8 @@ A full-stack parental control application that allows parents to manage children
 ### Tech Stack
 `React Native` `Expo` `TypeScript` `Redux Toolkit` `Node.js` `Express` `MongoDB` `Kotlin` `Android`
 
+🔗 [View Repository](https://github.com/noaYarin/FinalScreenGuardianMobile)
+
 ---
 
 ## ☁️ MedLoad — AWS Cloud Application
@@ -68,6 +70,8 @@ A cloud-based application designed to provide information about clinic loads and
 ### Tech Stack
 `AWS` `Lambda` `API Gateway` `DynamoDB` `Cognito` `S3` `CloudFront` `EventBridge` `React`
 
+🔗 [View Repository](https://github.com/Shiri667377/CloudProject-main)
+
 ---
 
 ## 🤟 ASL Recognition — Computer Vision & Deep Learning
@@ -86,6 +90,8 @@ An AI project for recognizing American Sign Language letters from images and rea
 
 ### Tech Stack
 `Python` `PyTorch` `OpenCV` `MediaPipe` `Pandas` `Deep Learning` `Computer Vision`
+
+🔗 [View Repository](https://github.com/lioror72/asl)
 
 ---
 
