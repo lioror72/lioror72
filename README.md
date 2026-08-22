@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lior Ben Yehuda</h1>
+```markdown
+<h1 align="center">Hi 👋, I'm Lior </h1>
 
 <h3 align="center">
 Computer Science Student | Full-Stack Developer | Web, Mobile, Cloud & AI
@@ -72,8 +73,6 @@ A cloud-based application designed to provide information about clinic loads and
 ## 🤟 ASL Recognition — Computer Vision & Deep Learning
 
 An AI project for recognizing American Sign Language letters from images and real-time camera input.
-
-The project explores different deep-learning approaches for image classification and hand-sign recognition.
 
 ### Highlights
 - ASL image preprocessing
@@ -178,17 +177,43 @@ A full-stack news application with personalized content, article sharing and use
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lioror72&show_icons=true&theme=transparent&hide_border=true"
+    height="165"
+    alt="Lior's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lioror72&layout=compact&theme=transparent&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=lioror72&theme=transparent&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
 
 ## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lior-ben-yehuda-3844b341qw/" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="Lior Ben Yehuda LinkedIn"
-         height="30"
-         width="40" />
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Lior Ben Yehuda LinkedIn"
+      height="30"
+      width="40"
+    />
   </a>
 </p>
 
 📧 **Email:** liorby72@gmail.com
+```
